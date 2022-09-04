@@ -2,6 +2,8 @@
 
 [Astro Crash Course - Tutorial Source](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
 
+[My Netlify Site](https://wondrous-bubblegum-bf2803.netlify.app/)
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
